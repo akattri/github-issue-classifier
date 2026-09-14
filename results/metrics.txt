@@ -1,0 +1,13 @@
+=== CLASSIFICATION REPORT ===
+              precision    recall  f1-score   support
+
+NON_SECURITY       0.83      0.95      0.88        20
+    SECURITY       0.94      0.80      0.86        20
+
+    accuracy                           0.88        40
+   macro avg       0.88      0.88      0.87        40
+weighted avg       0.88      0.88      0.87        40
+
+=== CONFUSION MATRIX ===
+[[19  1]
+ [ 4 16]]
